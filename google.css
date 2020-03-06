@@ -41,12 +41,17 @@ ul {
     padding: 16px 180px;
     border-radius: 50px;
     border: 1px solid silver;
+}
+.input{
+    font-size: 16px;
     
 }
+#search search container search box
 .search{
     margin: auto;
     width: 50%;
     padding-left: 50px;
+    text-align: left;
 }
 
 button {
@@ -57,6 +62,5 @@ button {
 }
 .center-button {
     padding-left: 400px;
-
 
 }
