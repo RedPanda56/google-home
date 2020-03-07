@@ -57,6 +57,7 @@ button {
     background-color: rgb(236, 236, 236);
     border: 0px solid;
 }
+
 .center-button {
     display: flex;
     justify-content: center;
