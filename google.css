@@ -3,7 +3,6 @@ a:link{
     color: black
 }
 
-
 a:visited{
     color: black;
 }
@@ -18,40 +17,38 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-  }
+}
   
-  li {
+li {
     float: left;
     font-size: 14px;
     padding-left: 10px;
-  }
+}
   
-  li a {
+li a {
     display: block;
     text-align: center;
     padding: 14px 4px;
     text-decoration: none;
-  }
+}
   
-  h1 {
-      text-align:center;
-      padding-top: 125px;
-  }
+h1 {
+     display: flex;
+     justify-content: center;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+
+}
+
 .input{
-    padding: 16px 180px;
     border-radius: 50px;
     border: 1px solid silver;
-}
-.input{
     font-size: 16px;
-    
-}
-#search search container search box
-.search{
-    margin: auto;
-    width: 50%;
-    padding-left: 50px;
-    text-align: left;
+    width: 485px;
+    height: 30px; 
 }
 
 button {
@@ -61,6 +58,6 @@ button {
     border: 0px solid;
 }
 .center-button {
-    padding-left: 400px;
-
+    display: flex;
+    justify-content: center;
 }
