@@ -35,12 +35,13 @@ li a {
 h1 {
      display: flex;
      justify-content: center;
+     padding-top: 15%;
+
 }
 
 .search{
     display: flex;
     justify-content: center;
-
 }
 
 .input{
@@ -61,4 +62,12 @@ button {
 .center-button {
     display: flex;
     justify-content: center;
+}
+
+footer {
+    background-color: gainsboro;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
