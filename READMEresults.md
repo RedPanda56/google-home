@@ -1,0 +1,1 @@
+Google Results page should look familiar to the actual Google results page. 
