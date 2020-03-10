@@ -1,4 +1,4 @@
-head{
+.overbar{
     overflow: hidden;
     position: fixed;
     top: 0;
@@ -49,13 +49,48 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
     background-size: 30px;
+
 }
 
 .bringdown{
     padding-top: 40px;
 }
 
+
+
 .topbar {
-    display: inline;
+    display: flex;
+    width: 100%;
 }
 
+.all {
+    padding-right: 20px;
+}
+
+.news {
+    padding-right: 20px;
+}
+
+.maps {
+    padding-right: 20px;
+}
+
+.video {
+    padding-right: 20px;
+}
+
+.shopping {
+    padding-right: 20px;
+}
+
+.more {
+    padding-right: 20px;
+}
+
+.settings {
+    justify-content: right;
+}
+
+.tools {
+    justify-content: right;
+}
