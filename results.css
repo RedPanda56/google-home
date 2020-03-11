@@ -75,6 +75,10 @@ h1{
     padding-left: 200px;
 }
 
+.magglass {
+    height: 16px;
+}
+
 .all {
     padding-right: 30px;
     font-size: 15px;
@@ -139,3 +143,4 @@ h1{
     padding-left: 25px;
     font-size: 15px;
 }
+
